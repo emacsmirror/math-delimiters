@@ -14,7 +14,7 @@ is active, it surrounds it with inline math delimiters and leaves the
 point after. Without an active region it inserts inline math
 delimiters and places point inside them. It toggles between display
 and inline if called from inside empty math delimiters, or just after
-math delimeters. (As a consequence, if called repeatedly it toggles
+math delimiters. (As a consequence, if called repeatedly it toggles
 between inline and display math.) A tiny bit of practice makes this
 very natural.
 
